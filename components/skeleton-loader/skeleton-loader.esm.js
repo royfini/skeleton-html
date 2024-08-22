@@ -1,0 +1,2 @@
+import{p as r,b as a}from"./p-2dd4b40a.js";export{s as setNonce}from"./p-2dd4b40a.js";import{g as t}from"./p-e1255160.js";var o=()=>{const a=import.meta.url;const s={};if(a!==""){s.resourcesUrl=new URL(".",a).href}return r(s)};o().then((async r=>{await t();return a([["p-1ceb65b9",[[1,"rf-countries",{data:[32],loading:[32]}],[1,"rf-skeleton"]]]],r)}));
+//# sourceMappingURL=skeleton-loader.esm.js.map
